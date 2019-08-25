@@ -1,6 +1,6 @@
 /**************************************************************************/
 /*!
-    @file     PN532/PN532/PN532.h
+    @file     
     @author   Adafruit Industries & Seeed Studio
     @license  BSD
 */
